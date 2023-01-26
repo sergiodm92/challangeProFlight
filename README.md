@@ -1,7 +1,7 @@
 <h1>Desafio ProFlight</>
 
 
-Pequeño desafio donde se debe realizar en react un selector de imagenes.
+<h2>Pequeño desafio donde se debe realizar en react un selector de imagenes.</h2>
 
 
 <h3>Tecnologias</h3>
