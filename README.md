@@ -1,4 +1,17 @@
-# Challange ProFlight
+<h1>Desafio ProFlight</>
 
-Project using react showing a list of ProFlight logos. A component that has two buttons and highlights one by one the logos from the list
+
+Pequeño desafio donde se debe realizar en react un selector de imagenes.
+
+
+<h3>Tecnologias</h3>
+
+<ul>
+
+<li>Javascript</li>
+<li>React</li>
+<li>HTML</li>
+<li>CSS</li>
+
+</ul>
 
